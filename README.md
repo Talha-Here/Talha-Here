@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Talha-Here and tech enthusiast
 - 👀 I’m interested in AI, ML, Web3 and Devops  like to contribute via Open-source
 - 🌱 I’m currently learning Devops, Web3 And an Undergrad Computer Engineering Student
-- 💞️ I’m looking to collaborate on projects which will the community as well as enhance my skills
+- 💞️ I’m looking to collaborate on projects which will help the community aswell as enhance my skills
 - 📫 How to reach me ---> Twitter: https://twitter.com/ThkTwts | Discord: THUNDER#1823
 
 <!---
